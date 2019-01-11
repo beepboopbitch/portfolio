@@ -24,14 +24,24 @@
   color: white;
 }
 
+.homehome {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: red;
+  border: 2px solid black;
+}
+
 .hometitle {
   padding-left: 200px;
   padding-right: 50px;
   padding-top: 50px;
+  padding-bottom: 150px;
+  background-color: gray;
 }
 
 .hometitle h1, .hometitle p {
   text-align: center;
+  color: white;
 }
 
 .hometitle img {
@@ -60,4 +70,8 @@
 
 .aboutme {
   padding-left: 200px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: gray;
 }
