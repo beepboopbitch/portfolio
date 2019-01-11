@@ -17,5 +17,17 @@
 }
 
 .hometitle {
-   padding-left: 300px;
+   padding-left: 200px;
+   padding-right: 50px;
+   padding-top: 50px;
+ }
+
+ .hometitle h1,p {
+   text-align: center;
+ }
+
+ .hometitle img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
  }
