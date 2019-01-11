@@ -6,7 +6,7 @@
 
 ## Description
 
-_The website has a sidebar in home to navigate my about me page and listed projects._
+_A portfolio website containing my Epicodus projects, as well as some of my art and info on me._
 
 ## Setup
 
