@@ -35,7 +35,7 @@
   padding-left: 200px;
   padding-right: 50px;
   padding-top: 50px;
-  padding-bottom: 250px;
+  padding-bottom: 50px;
   background-color: white;
   font-size: 20px;
 }
@@ -62,6 +62,14 @@
 .projects2{
   padding-right: 50px;
   padding-top: 40px;
+}
+
+.prj{
+  padding-left: 200px;
+}
+
+.row{
+  font-weight: bold;
 }
 
 .projectstitle{
@@ -122,9 +130,5 @@ span {
 }
 
 .upart{
-  padding-left: 200px;
-}
-
-.prj{
   padding-left: 200px;
 }

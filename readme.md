@@ -10,7 +10,7 @@ _The website has a sidebar in home to navigate my about me page and listed proje
 
 ## Setup
 
-* _Clone this repository_
+* _Clone this repository_ https://github.com/nayomi-morita/portfolio.git
 * _Open index.html in browser_
 
 ## Technologies Used
