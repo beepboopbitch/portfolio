@@ -1,4 +1,4 @@
-.sidebar {
+.sidebar{
   height: 100%;
   width: 150px;
   position: fixed;
@@ -13,45 +13,46 @@
   border: 2px solid black;
 }
 
-.sidebar img {
+.sidebar img{
   display: block;
   margin-left: auto;
   margin-right: auto;
   border: 2px solid black;
 }
 
-.sidebar a {
+.sidebar a{
   color: white;
 }
 
-.homehome {
+.homehome{
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: red;
+  background-color: gray;
   border: 2px solid black;
 }
 
-.hometitle {
+.hometitle{
   padding-left: 200px;
   padding-right: 50px;
   padding-top: 50px;
-  padding-bottom: 150px;
-  background-color: gray;
+  padding-bottom: 250px;
+  background-color: white;
 }
 
-.hometitle h1, .hometitle p {
+.hometitle h1, .hometitle p{
   text-align: center;
   color: white;
+  font-style: italic;
 }
 
-.hometitle img {
+.hometitle img{
   display: block;
   margin-left: auto;
   margin-right: auto;
   border: 2px solid black;
 }
 
-.projects {
+.projects{
   padding-left: 200px;
   padding-right: 50px;
   padding-top: 40px;
@@ -62,16 +63,55 @@
   padding-top: 40px;
 }
 
-.projectstitle {
+.projectstitle{
   padding-left: 200px;
   padding-top: 50px;
   padding-right: 50px;
 }
 
-.aboutme {
+.aboutme{
   padding-left: 200px;
   padding-right: 50px;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: gray;
+  color: white;
+}
+
+.aboutme img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+}
+
+.aboutmeme{
+  padding-top: 50px;
+  text-align: center;
+  background-color: red;
+  border: 2px solid black;
+}
+
+.aboutmyself{
+  padding-left: 200px;
+  padding-right: 50px;
+
+}
+
+.aboutmymyself{
+  background-color: red;
+  border: 2px solid black;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  color: white;
+  font-size: 22px;
+}
+
+.aboutmymyself img{
+  float: right;
+  padding-right: 10px;
+}
+
+span {
+  font-style: italic;
 }
