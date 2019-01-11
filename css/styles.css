@@ -22,7 +22,7 @@
    padding-top: 50px;
  }
 
- .hometitle h1,p {
+ .hometitle h1, .hometitle p {
    text-align: center;
  }
 
@@ -30,4 +30,15 @@
    display: block;
    margin-left: auto;
    margin-right: auto;
+ }
+
+ .projects {
+   padding-left: 200px;
+   padding-right: 50px;
+   padding-top: 40px;
+ }
+
+ .projectstitle {
+   padding-left: 200px;
+   padding-top: 50px;
  }
