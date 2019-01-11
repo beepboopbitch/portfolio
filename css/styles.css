@@ -22,23 +22,29 @@
    padding-top: 50px;
  }
 
- .hometitle h1, .hometitle p {
+.hometitle h1, .hometitle p {
    text-align: center;
  }
 
- .hometitle img {
+.hometitle img {
    display: block;
    margin-left: auto;
    margin-right: auto;
  }
 
- .projects {
+.projects {
    padding-left: 200px;
    padding-right: 50px;
    padding-top: 40px;
  }
 
+.projects2 {
+  padding-right: 50px;
+  padding-top: 40px;
+}
+
  .projectstitle {
    padding-left: 200px;
    padding-top: 50px;
+   padding-right: 50px;
  }
