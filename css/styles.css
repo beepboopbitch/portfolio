@@ -10,6 +10,14 @@
   padding-right: 20px;
   padding-left: 20px;
   padding-top: 20px;
+  border: 2px solid black;
+}
+
+.sidebar img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
 }
 
 .sidebar a {
@@ -17,34 +25,39 @@
 }
 
 .hometitle {
-   padding-left: 200px;
-   padding-right: 50px;
-   padding-top: 50px;
- }
+  padding-left: 200px;
+  padding-right: 50px;
+  padding-top: 50px;
+}
 
 .hometitle h1, .hometitle p {
-   text-align: center;
- }
+  text-align: center;
+}
 
 .hometitle img {
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
- }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+}
 
 .projects {
-   padding-left: 200px;
-   padding-right: 50px;
-   padding-top: 40px;
- }
+  padding-left: 200px;
+  padding-right: 50px;
+  padding-top: 40px;
+}
 
 .projects2 {
   padding-right: 50px;
   padding-top: 40px;
 }
 
- .projectstitle {
-   padding-left: 200px;
-   padding-top: 50px;
-   padding-right: 50px;
- }
+.projectstitle {
+  padding-left: 200px;
+  padding-top: 50px;
+  padding-right: 50px;
+}
+
+.aboutme {
+  padding-left: 200px;
+}
