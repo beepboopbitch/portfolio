@@ -12,6 +12,8 @@ _A portfolio website containing my Epicodus projects, as well as some of my art 
 
 * _Clone this repository_ https://github.com/nayomi-morita/portfolio.git
 * _Open index.html in browser_
+* _Use chosen code editor to make changes (I used atom.)_
+* _Or view it at my gh-pages link_ https://nayomi-morita.github.io/portfolio/
 
 ## Technologies Used
 
